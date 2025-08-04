@@ -1,7 +1,7 @@
 
 🧭 Travel Planner AI Agent 🇦🇮
 
-Project Title: Smart AI-Powered Trip Planner using IBM Watsonx
+Smart AI-Powered Trip Planner using IBM Watsonx
 
 
 ---
