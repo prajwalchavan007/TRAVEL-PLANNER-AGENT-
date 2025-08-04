@@ -21,7 +21,6 @@ A smart, agentic AI-powered travel assistant that helps users plan personalized 
 
 - **IBM watsonx.ai** (agentic AI)
 - **IBM Cloud Functions** (serverless backend)
-- **Watson Assistant** (dialog interface, optional)
 
 ---
 
@@ -35,9 +34,11 @@ A smart, agentic AI-powered travel assistant that helps users plan personalized 
 
 - IBM Cloud account: [Sign up here](https://cloud.ibm.com/registration)
 - Enable and configure **watsonx.ai**
+  
 
 ### 1. clone the Repository
 
 https://github.com/prajwalchavan007/TRAVEL-PLANNER-AGENT-.git
 
-API KEYS =  ( k3_hSG9hmtdlraEmUIxyEwotejEupy8f8ey0jocdbUE1  )
+-API KEY =  ( k3_hSG9hmtdlraEmUIxyEwotejEupy8f8ey0jocdbUE1  )
+Use for the external project execution using API key in project code with the help of VS code or Jupiter platform 
