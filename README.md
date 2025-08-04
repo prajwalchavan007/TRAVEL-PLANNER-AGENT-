@@ -264,12 +264,4 @@ Future Scope 🎯
 
 ---
 
-Some Useful Links 👇
-
-IBM Cloud Lite
-
-IBM Watsonx.ai
-
-Official GitHub Repo
-
 
