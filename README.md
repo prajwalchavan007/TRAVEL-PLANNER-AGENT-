@@ -15,14 +15,14 @@ Whether you're a solo traveler, business professional, or student attending an a
 
 ---
 
-Problem Statement ⚠️
+⚠️ Problem Statement 
 
 Travelers often face the challenge of organizing complex itineraries, managing bookings, and adjusting for delays or last-minute changes. Manually handling these tasks leads to wasted time, stress, and missed opportunities, especially for multi-destination or time-sensitive trips.
 
 
 ---
 
-Proposed Solution ✅
+✅Proposed Solution 
 
 The Travel Planner Agent is a conversational AI solution built using IBM Watsonx and IBM Granite Foundation Models. It interprets user preferences, budgets, and trip goals via natural language input and generates intelligent, real-time, and flexible travel plans. The agent offers:
 
@@ -38,7 +38,7 @@ Automated recommendations for stay, transport, and local activities
 
 ---
 
-Technologies Used 🧑‍💻
+ 🧑‍💻Technologies Used
 
 1. IBM Granite Foundation Model (LLM)
 Enables intelligent, human-like understanding of travel queries.
@@ -64,7 +64,7 @@ Facilitates friendly, chat-based trip planning.
 
 ---
 
-IBM Cloud Services Used 🌐
+ 🌐IBM Cloud Services Used
 
 1. IBM Cloud Object Storage
 Stores data like PDFs, itineraries, and user inputs securely.
@@ -94,7 +94,7 @@ Used to deploy the agent on cloud for public interaction.
 
 ---
 
-WOW Factors ✨
+✨WOW Factors 
 
 1. Built on IBM Watsonx with RAG for Accurate Planning
 Real-time trip updates from weather, maps, and live sources.
@@ -120,7 +120,7 @@ Ensures security, scalability, and 24/7 availability.
 
 ---
 
-Target End Users 👥
+ 👥Target End Users
 
 1. Independent Travellers
 Seeking curated, stress-free trip experiences.
@@ -146,7 +146,7 @@ Attending conferences, research trips, or academic events.
 
 ---
 
-Key Features 🗝️
+ 🗝️Key Features
 
 1. AI-Powered Itinerary Builder
 Understands goals and builds real-time travel plans.
@@ -172,7 +172,7 @@ Considers cost, time, and convenience in every plan.
 
 ---
 
-How It Works ⚙️
+⚙️How It Works 
 
 1. User enters travel details in natural language (e.g., “Plan a 3-day trip to Goa under ₹10,000.”)
 
@@ -220,7 +220,7 @@ Includes regional travel guides, hotel data, weather sources
 
 ---
 
-How to Run or Deploy 💻
+ 💻How to Run or Deploy
 
 Log in to IBM Cloud: https://cloud.ibm.com
 
@@ -240,7 +240,7 @@ Deploy via web snippet, Streamlit app, or mobile app
 
 ---
 
-Future Scope 🎯
+ 🎯Future Scope
 
 1. Voice-Based Travel Planning
 
