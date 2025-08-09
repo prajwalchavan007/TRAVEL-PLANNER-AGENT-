@@ -1,12 +1,11 @@
-
-Travel Planner AI Agent ֎🇦🇮
+#Travel Planner AI Agent ֎🇦🇮
 
 Smart AI-Powered Trip Planner using IBM Watsonx
 
 
 ---
 
-Introduction
+##Introduction
 
 The Travel Planner Agent is an AI-powered virtual assistant designed to make travel planning effortless and personalized. Built using IBM Watsonx.ai and Granite Foundation Models, it understands natural language queries to create custom travel itineraries, suggest destinations, recommend accommodations and transport options, and adjust plans dynamically based on live weather, traffic, and event data.
 
@@ -46,10 +45,6 @@ Enables intelligent, human-like understanding of travel queries.
 
 2. Retrieval-Augmented Generation (RAG)
 Boosts response accuracy using real-time context from data.
-
-
-3. Natural Language Processing (NLP)
-Powers multilingual understanding and conversational responses.
 
 
 4. IBM Watsonx.ai Studio
@@ -234,7 +229,7 @@ Configure RAG, tools, and agent instructions
 
 Test using preview panel
 
-Deploy via web snippet, Streamlit app, or mobile app
+Deploy via IBM Deployment Service within the watonxai 
 
 
 
