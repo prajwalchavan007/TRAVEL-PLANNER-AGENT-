@@ -86,7 +86,6 @@ Used to deploy the agent on cloud for public interaction.
 
 
 
-
 ---
 
 ✨WOW Factors 
@@ -249,10 +248,7 @@ Deploy via IBM Deployment Service within the watonxai
 4. Smart Budget Analysis with Notifications
 
 
-5. Travel Diary and Sharing Feature
-
-
-6. Local Cultural Tips and Safety Alerts
+5. Local Cultural Tips and Safety Alerts
 
 
 
